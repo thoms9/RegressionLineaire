@@ -2,7 +2,7 @@
 
 Projet portant sur la régression linéaire, l'un des outils statistiques les plus fondamentaux en pratique. Plutôt que d'utiliser directement les fonctions R existantes (`lm()`, `summary()`...), l'ensemble des estimateurs et tests statistiques est ré-implémenté à partir des formules matricielles vues en cours, afin de comprendre en profondeur chaque étape de la régression linéaire.
 
-**Auteur original :** Thomas Begotti et 2 autres étudiants
+**Auteur :** Thomas Begotti
 
 ## Démarche
 
